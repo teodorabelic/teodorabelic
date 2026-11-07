@@ -6,7 +6,7 @@ I'm a Software Engineering student at the **Faculty of Technical Sciences, Unive
 
 I'm interested in various areas of IT, with a particular focus on exploring software development, artificial intelligence, and project management. I'm currently seeking internship opportunities to gain hands-on industry experience, expand my skills, and grow professionally.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages:** Java, Python, TypeScript, JavaScript, C#, C++, Rust, SQL
 
