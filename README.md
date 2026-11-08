@@ -53,5 +53,4 @@ Sequential and parallel implementations of Conway's Game of Life, including perf
 ## Connect With Me
 
 - **GitHub:** [github.com/teodorabelic](https://github.com/teodorabelic)
-- **LinkedIn:** 
-- **CV:** 
+- **LinkedIn:** [Teodora Belić](https://www.linkedin.com/in/belic-teodora/)
